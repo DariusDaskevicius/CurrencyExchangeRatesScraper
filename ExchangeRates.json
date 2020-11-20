@@ -1,0 +1,194 @@
+[
+    {
+        "Currency": "AUD - Australian dollar",
+        "Transfer sells": "1,59640",
+        "Transfer buys": "1,66180",
+        "ECB Rate": "1,62720"
+    },
+    {
+        "Currency": "BYN - Belarusian ruble",
+        "Transfer sells": "2,64000",
+        "Transfer buys": "3,47200",
+        "ECB Rate": "3,02470"
+    },
+    {
+        "Currency": "BGN - Bulgarian lev",
+        "Transfer sells": "1,89720",
+        "Transfer buys": "2,01450",
+        "ECB Rate": "1,95580"
+    },
+    {
+        "Currency": "CZK - Czech koruna",
+        "Transfer sells": "25,81500",
+        "Transfer buys": "26,88800",
+        "ECB Rate": "26,35800"
+    },
+    {
+        "Currency": "GBP - Pound sterling",
+        "Transfer sells": "0,86803",
+        "Transfer buys": "0,92192",
+        "ECB Rate": "0,89378"
+    },
+    {
+        "Currency": "DKK - Danish krone",
+        "Transfer sells": "7,28780",
+        "Transfer buys": "7,61600",
+        "ECB Rate": "7,44980"
+    },
+    {
+        "Currency": "HKD - Hong Kong dollar",
+        "Transfer sells": "8,92250",
+        "Transfer buys": "9,50640",
+        "ECB Rate": "9,17370"
+    },
+    {
+        "Currency": "INR - Indian rupee",
+        "Transfer sells": "85,36570",
+        "Transfer buys": "90,82920",
+        "ECB Rate": "87,79700"
+    },
+    {
+        "Currency": "ISK - Icelandic krona",
+        "Transfer sells": "156,31550",
+        "Transfer buys": "166,29350",
+        "ECB Rate": "161,30000"
+    },
+    {
+        "Currency": "ILS - Israeli new shekel",
+        "Transfer sells": "3,84910",
+        "Transfer buys": "4,09960",
+        "ECB Rate": "3,95950"
+    },
+    {
+        "Currency": "JPY - Japanese yen",
+        "Transfer sells": "120,86700",
+        "Transfer buys": "125,84700",
+        "ECB Rate": "123,08000"
+    },
+    {
+        "Currency": "USD - US dollar",
+        "Transfer sells": "1,16460",
+        "Transfer buys": "1,21240",
+        "ECB Rate": "1,18320"
+    },
+    {
+        "Currency": "CAD - Canadian dollar",
+        "Transfer sells": "1,52010",
+        "Transfer buys": "1,58580",
+        "ECB Rate": "1,55010"
+    },
+    {
+        "Currency": "QAR - Qatari riyal",
+        "Transfer sells": "4,23240",
+        "Transfer buys": "4,51790",
+        "ECB Rate": "4,30680"
+    },
+    {
+        "Currency": "KZT - Kazakhstani tenge",
+        "Transfer sells": "469,10900",
+        "Transfer buys": "549,10000",
+        "ECB Rate": "506,35000"
+    },
+    {
+        "Currency": "CNY - Chinese yuan renminbi",
+        "Transfer sells": "7,64790",
+        "Transfer buys": "7,96300",
+        "ECB Rate": "7,79270"
+    },
+    {
+        "Currency": "HRK - Croatian kuna",
+        "Transfer sells": "7,33710",
+        "Transfer buys": "7,79400",
+        "ECB Rate": "7,56550"
+    },
+    {
+        "Currency": "PLN - Polish złoty",
+        "Transfer sells": "4,36270",
+        "Transfer buys": "4,58400",
+        "ECB Rate": "4,47140"
+    },
+    {
+        "Currency": "MXN - Mexican peso",
+        "Transfer sells": "23,23890",
+        "Transfer buys": "24,75360",
+        "ECB Rate": "24,04260"
+    },
+    {
+        "Currency": "NZD - \r\n\r\nNew Zealand dollar",
+        "Transfer sells": "1,66080",
+        "Transfer buys": "1,76670",
+        "ECB Rate": "1,71550"
+    },
+    {
+        "Currency": "NOK - Norwegian krone",
+        "Transfer sells": "10,42410",
+        "Transfer buys": "10,94010",
+        "ECB Rate": "10,69000"
+    },
+    {
+        "Currency": "ZAR - South African rand",
+        "Transfer sells": "17,73900",
+        "Transfer buys": "18,89070",
+        "ECB Rate": "18,31530"
+    },
+    {
+        "Currency": "RON - Romanian new leu",
+        "Transfer sells": "4,71690",
+        "Transfer buys": "5,02150",
+        "ECB Rate": "4,87320"
+    },
+    {
+        "Currency": "RUB - Russian ruble",
+        "Transfer sells": "83,36160",
+        "Transfer buys": "97,75300",
+        "ECB Rate": "90,26380"
+    },
+    {
+        "Currency": "SAR - Saudi riyal",
+        "Transfer sells": "4,25590",
+        "Transfer buys": "4,65900",
+        "ECB Rate": "4,43700"
+    },
+    {
+        "Currency": "RSD - Serbian dinar",
+        "Transfer sells": "113,75100",
+        "Transfer buys": "121,17900",
+        "ECB Rate": "117,46600"
+    },
+    {
+        "Currency": "SGD - Singapore dollar",
+        "Transfer sells": "1,55780",
+        "Transfer buys": "1,63510",
+        "ECB Rate": "1,59240"
+    },
+    {
+        "Currency": "SEK - Swedish krona",
+        "Transfer sells": "9,95900",
+        "Transfer buys": "10,45290",
+        "ECB Rate": "10,20600"
+    },
+    {
+        "Currency": "CHF - Swiss franc",
+        "Transfer sells": "1,05920",
+        "Transfer buys": "1,10270",
+        "ECB Rate": "1,07970"
+    },
+    {
+        "Currency": "TRY - New Turkish lira",
+        "Transfer sells": "8,53680",
+        "Transfer buys": "9,43850",
+        "ECB Rate": "8,93730"
+    },
+    {
+        "Currency": "UAH - Ukrainian hryvnia",
+        "Transfer sells": "31,07710",
+        "Transfer buys": "36,37300",
+        "ECB Rate": "33,40070"
+    },
+    {
+        "Currency": "HUF - Hungarian forint",
+        "Transfer sells": "350,96600",
+        "Transfer buys": "367,20400",
+        "ECB Rate": "360,90000"
+    }
+]
